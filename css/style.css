@@ -216,7 +216,7 @@ header {
 }
 .nav-header li a {
   color: var(--main-color);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
   text-transform: capitalize;
   transition: all 0.3s ease-in-out;
@@ -611,7 +611,7 @@ html[dir="ltr"] .about-us-link i {
 }
 .features-head {
   font-weight: 700;
-  font-size: 24px;
+  font-size: 18px;
   color: var(--white-color);
   text-transform: capitalize;
   display: inline-block;
@@ -619,7 +619,7 @@ html[dir="ltr"] .about-us-link i {
 }
 .features-pargh {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
   color: var(--white-color);
   margin-bottom: 0;
 }
@@ -674,7 +674,7 @@ html[dir="ltr"] .about-us-link i {
   justify-content: center;
   flex-direction: column;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
   color: var(--main-color);
   text-align: center;
   text-transform: capitalize;
@@ -721,8 +721,8 @@ html[dir="ltr"] .about-us-link i {
   transform: scale(1.08) rotate(45deg);
 }
 .category-show {
-  width: 192px;
-  height: 54px;
+  width: 160px;
+  height: 45px;
   background-color: var(--main-hover);
   color: var(--white-color);
   display: flex;
@@ -731,7 +731,7 @@ html[dir="ltr"] .about-us-link i {
   margin: 55px auto 0;
   text-decoration: none !important;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 14px;
   position: relative;
   overflow: hidden;
   transform: perspective(1px) translateZ(0);
@@ -861,7 +861,7 @@ html[dir="ltr"] .about-us-link i {
   display: block;
   color: var(--main-color);
   text-decoration: none !important;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
   margin-bottom: 5px;
   transition: all 0.4s ease-in-out;
@@ -877,7 +877,7 @@ html[dir="ltr"] .about-us-link i {
 }
 .news-pargh {
   font-weight: 300;
-  font-size: 16px;
+  font-size: 14px;
   color: #382f2c;
   width: 100%;
   margin: auto;
@@ -892,8 +892,8 @@ html[dir="ltr"] .about-us-link i {
   display: block;
   color: #a4a4a4;
   text-decoration: none !important;
-  font-size: 16px;
-  font-weight: 400;
+  font-size: 14px;
+  font-weight: 300;
   transition: all 0.4s ease-in-out;
   text-align: start;
 }
